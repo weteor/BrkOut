@@ -12,6 +12,7 @@
 - support for ZMK firmware (Xiao BLE) or QMK w/vial (Xiao RP2040)
 - completely open source, permissive license
 - bottom rows supported: 
+  - 6u
   - 2.25u - 1.5u - 2.25u
   - 1.25u - 1.75u - 1.75u -  1.25u
   - 1u -  2u - 2u - 1u
